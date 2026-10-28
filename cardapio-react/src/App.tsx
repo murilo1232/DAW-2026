@@ -120,16 +120,7 @@ function App() {
             <p>R$ 18,00</p>
             <button type="button">Adicionar</button>
           </article>
-          <article>
-            <figure>
-              <img src="./assets/img/sonho.jpeg" alt="você é um sonho?" />
-              <figcaption>Sonho</figcaption>
-            </figure>
-            <h3> Um Sonho</h3>
-            <p> Por que ele não tava no cardápio?</p>
-            <p>R$ 99,99</p>
-            <button type="button">Adicionar</button>
-          </article>
+          
         </section>
 
         <aside>
